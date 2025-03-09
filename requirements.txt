@@ -1,0 +1,13 @@
+
+langchain
+langchain-openai
+google-generativeai 
+langchain-google-genai 
+langchain-core
+pypdf
+Pillow
+pytesseract
+pandas
+streamlit
+python-dotenv
+
